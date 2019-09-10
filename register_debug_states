@@ -1,0 +1,16 @@
+
+
+ "msg": [
+        "STDERR_LINES",
+        "CHANGED",
+        "END",
+        "FAILED",
+        "STDOUT",
+        "CMD",
+        "RC",
+        "START",
+        "STDERR",
+        "DELTA",
+        "STDOUT_LINES"
+    ]
+}
